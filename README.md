@@ -1,4 +1,4 @@
 # FunGithub
-function of Github
+Githubs'function READE.md
 
-คำสั่งตกแต่ง READE.md : https://github.com/anuraghazra/github-readme-stats#customization
+คำสั่งสร้าง GitHub Stats Card : https://github.com/anuraghazra/github-readme-stats#customization
