@@ -1,1 +1,1 @@
-# tutorial for development computer programming skills
+# Notes for Dev
